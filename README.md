@@ -38,7 +38,7 @@ At first, it was hard to locate some elements on the XCode UI. But with the help
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Edmond Nzivugira
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
